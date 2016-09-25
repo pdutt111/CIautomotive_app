@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "285696423725",
+    "firebase_url": "https://helpful-airway-131714.firebaseio.com",
+    "project_id": "helpful-airway-131714",
+    "storage_bucket": "helpful-airway-131714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285696423725:android:e64d29291bf02870",
+        "android_client_info": {
+          "package_name": "com.ciautomotivetechnologies.ciautomotive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285696423725-tmm06gs2rp8lmi5vinr16o93bv98o2cb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "285696423725-fqnc3t9abupc3b20cuiburkef7do73ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzRkSnQGpioObkIdu7shKTV9HeZxhcn_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-78274777-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285696423725:android:f3804669797a69fe",
+        "android_client_info": {
+          "package_name": "in.ciautomotivetechnologies.ciautomotive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285696423725-tmm06gs2rp8lmi5vinr16o93bv98o2cb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "285696423725-fqnc3t9abupc3b20cuiburkef7do73ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzRkSnQGpioObkIdu7shKTV9HeZxhcn_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
